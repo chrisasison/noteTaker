@@ -1,0 +1,24 @@
+{
+  "name": "noteTaker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chrisasison/noteTaker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chrisasison/noteTaker/issues"
+  },
+  "homepage": "https://github.com/chrisasison/noteTaker#readme",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "yargs": "^16.0.3"
+  }
+}

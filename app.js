@@ -55,7 +55,7 @@ yargs.command({
     title: {
       describe: "note title",
       demandOption: true,
-      tpye: "string"
+      type: "string"
     }
   },
   handler: function () {
